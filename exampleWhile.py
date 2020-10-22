@@ -1,4 +1,4 @@
-# This is a basic example with while (valid potency de 2 )
+# This is a basic example with while (valid potency de 2)
 
 
 def run():
