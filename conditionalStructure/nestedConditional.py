@@ -1,4 +1,5 @@
-# This is a basic example convert the currency to dollar
+# This is a basic example with nested conditional
+# convert the currency to dollar
 
 
 def exchanges(currency, quantity):
